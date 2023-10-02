@@ -1,0 +1,2 @@
+1696206681.346225s 1 https://dandiarchive.s3.amazonaws.com/zarr/700eb000-b685-4448-916a-f76fb2829b8a/2/0/1/18?versionId=k6Pvqei65eEFhfo2oKC1eK8HIz0Oxt3P
+1696206681.367608s 1 https://api.dandiarchive.org/api/zarr/700eb000-b685-4448-916a-f76fb2829b8a/files?prefix=2%2F0%2F1%2F18&download=true
